@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.videoContainer {
+  background-color: blue;
+  display: inline-block;
+  max-width: 40%;
+}
+.description {
+  background-color: aqua;
+  display: inline-block;
+  max-width: 60%;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+}
